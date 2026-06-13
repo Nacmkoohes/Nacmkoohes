@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasim</h1>
-<h3 align="center">Computer Engineering student at Amirkabir University of Technology (AUT)</h3>
+<h3 align="center">Computer Science student at Amirkabir University of Technology (AUT)</h3>
 
 ---
 
