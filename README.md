@@ -5,7 +5,7 @@
 
 - 🎓 B.Sc. Candidate in **Computer Engineering** (2022 – Present)
 - 🔧 Focused on **Backend Engineering** with experience in building RESTful APIs and server-side applications
-- 🌐 Interested in **Distributed Systems**, **Scalable Infrastructure**, and **Software Architecture**
+- 🌐 Interested in **Scalable Infrastructure**, and **Software Architecture**
 - 🗄️ Working with **Databases**, **API Design**, and **System Design** for reliable backend services
 - 💡 Passionate about **algorithmic problem-solving** and practical software development
 - 📫 Reach me at **nasimkoohestani82@gmail.com**
@@ -49,7 +49,6 @@
 
 - Built backend projects including **Movie Rating System API**, **Todo List API**, and **URL Shortener Service**
 - Experienced with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **REST API design**
-- Familiar with **Linux**, **TCP/IP**, **HTTP**, and **socket programming**
 - Strong foundation in **Operating Systems**, **Computer Networks**, and **Distributed Systems**
 - Consistently apply **data structures and algorithms** in problem-solving and engineering tasks
 
