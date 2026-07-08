@@ -46,7 +46,7 @@
 
 ### 🏆 Highlights
 
-- Built backend projects including **Movie Rating System API**, **Todo List API**, and **URL Shortener Service**
+- Built backend projects including **Movie Rating System API**, **Todo List API**,**E Commerce website** and **URL Shortener Service** 
 - Experienced with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **REST API design**
 - Strong foundation in **Operating Systems**, **Computer Networks**, and **Distributed Systems**
 - Consistently apply **data structures and algorithms** in problem-solving and engineering tasks
