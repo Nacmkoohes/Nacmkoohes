@@ -7,7 +7,6 @@
 - 🔧 Focused on **Backend Engineering** with experience in building RESTful APIs and server-side applications
 - 🌐 Interested in **Scalable Infrastructure**, and **Software Architecture**
 - 🗄️ Working with **Databases**, **API Design**, and **System Design** for reliable backend services
-- 💡 Passionate about **algorithmic problem-solving** and practical software development
 - 📫 Reach me at **nasimkoohestani82@gmail.com**
 
 ---
