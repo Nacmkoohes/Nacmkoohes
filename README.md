@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 B.Sc. Candidate in **Computer Engineering** (2022 – Present)
+- 🎓 B.Sc. Candidate in **Computer Science** (2022 – Present)
 - 🔧 Focused on **Backend Engineering** with experience in building RESTful APIs and server-side applications
 - 🌐 Interested in **Scalable Infrastructure**, and **Software Architecture**
 - 🗄️ Working with **Databases**, **API Design**, and **System Design** for reliable backend services
