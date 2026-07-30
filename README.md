@@ -4,8 +4,8 @@
 ---
 
 - 🎓 B.Sc. Candidate in **Computer Science** (2022 – Present)
-- 🔧 Focused on **Backend Engineering** with experience in building RESTful APIs and server-side applications
-- 🌐 Interested in **Scalable Infrastructure**, and **Software Architecture**
+- 🔧 Focused on **Backend Engineering** with experience in building RESTful APIs and server-side applications 
+- 🌐 Interested in **Scalable Infrastructure**, and **Software Architecture** and **Machine Learning**
 - 🗄️ Working with **Databases**, **API Design**, and **System Design** for reliable backend services
 - 📫 Reach me at **nasimkoohestani82@gmail.com**
 
